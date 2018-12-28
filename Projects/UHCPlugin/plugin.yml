@@ -1,0 +1,17 @@
+name: UHCPlugin
+main: com.mauro.uhcplugin.Main
+version: 1.0 (alpha)
+api-version: 1.13
+commands:
+    start:
+      description: Inicia la partida UHC.
+      usage: /<command> <minutes> <radius>
+    restart:
+      description: Reinicia la partida UHC.
+      usage: /<command> <minutes> <radius>
+    end:
+      description: Finaliza la partida UHC.
+      usage: /<command>
+    restore:
+      description: Restablece la salud de un jugador.
+      usage: /<command> <player>

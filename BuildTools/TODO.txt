@@ -1,0 +1,4 @@
+Desactivar regeneracion en el nether (Solved)
+Solucionar lag cabezas
+Hacer equipos
+Resetear advancements (Solved)
