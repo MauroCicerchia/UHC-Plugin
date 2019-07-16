@@ -96,5 +96,4 @@ public class UHCListener implements Listener {
 			}
 		}
 	}
-	
 }

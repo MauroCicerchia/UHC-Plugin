@@ -1,264 +1,148 @@
-[18:16:25] [main/INFO]: Loaded 0 recipes
-[18:16:25] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[18:16:25] [Server thread/INFO]: Loading properties
-[18:16:25] [Server thread/INFO]: Default game type: SURVIVAL
-[18:16:25] [Server thread/INFO]: Generating keypair
-[18:16:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:16:25] [Server thread/INFO]: Using default channel type
-[18:16:26] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-dff66df (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
-[18:16:33] [Server thread/INFO]: [UHCPlugin] Loading UHCPlugin v1.0 (alpha)
-[18:16:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:16:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:16:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:16:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:16:33] [Server thread/INFO]: Preparing level "world"
-[18:16:34] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[18:16:36] [Server thread/INFO]: Loaded 524 recipes
-[18:16:40] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: -605164115423305727)
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 4%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 8%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 12%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 16%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 20%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 24%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 28%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 32%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 36%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 40%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 44%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 48%
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 52%
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 56%
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 60%
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 64%
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 68%
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 72%
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 76%
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 80%
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 84%
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 88%
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 92%
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 96%
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 100%
-[18:16:42] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: -605164115423305727)
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 4%
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 8%
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 12%
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 16%
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 20%
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 24%
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 28%
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 32%
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 36%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 40%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 44%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 48%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 52%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 56%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 60%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 64%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 68%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 72%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 76%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 80%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 84%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 88%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 92%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 96%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 100%
-[18:16:43] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -605164115423305727)
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 4%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 8%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 12%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 16%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 20%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 24%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 28%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 32%
-[18:16:44] [Server thread/INFO]: Preparing spawn area: 36%
-[18:16:44] [Server thread/INFO]: Preparing spawn area: 40%
-[18:16:44] [Server thread/INFO]: Preparing spawn area: 44%
-[18:16:44] [Server thread/INFO]: Preparing spawn area: 48%
-[18:16:44] [Server thread/INFO]: Preparing spawn area: 52%
-[18:16:44] [Server thread/INFO]: Preparing spawn area: 56%
-[18:16:44] [Server thread/INFO]: Preparing spawn area: 60%
-[18:16:44] [Server thread/INFO]: Preparing spawn area: 64%
-[18:16:44] [Server thread/INFO]: Preparing spawn area: 68%
-[18:16:44] [Server thread/INFO]: Preparing spawn area: 72%
-[18:16:44] [Server thread/INFO]: Preparing spawn area: 76%
-[18:16:44] [Server thread/INFO]: Preparing spawn area: 80%
-[18:16:44] [Server thread/INFO]: Preparing spawn area: 84%
-[18:16:44] [Server thread/INFO]: Preparing spawn area: 88%
-[18:16:44] [Server thread/INFO]: Preparing spawn area: 92%
-[18:16:44] [Server thread/INFO]: Preparing spawn area: 96%
-[18:16:44] [Server thread/INFO]: Preparing spawn area: 100%
-[18:16:44] [Server thread/INFO]: Time elapsed: 4191 ms
-[18:16:44] [Server thread/INFO]: [UHCPlugin] Enabling UHCPlugin v1.0 (alpha)
-[18:16:44] [Server thread/INFO]: [UHCPlugin] UHC plugin has been enabled.
-[18:16:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:16:45] [Server thread/INFO]: Done (11.525s)! For help, type "help"
-[18:20:24] [Server thread/INFO]: Kuroi[/192.168.56.1:51855] logged in with entity id 297 at ([world]-0.8993911089150077, 78.0, 2.8340735184513948)
-[18:20:43] [Server thread/INFO]: Kuroi issued server command: /start 10 10
-[18:20:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3189ms or 63 ticks behind
-[18:21:06] [Server thread/INFO]: Kuroi has made the advancement [We Need to Go Deeper]
-[18:21:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[18:21:33] [Server thread/INFO]: Kuroi lost connection: Disconnected
-[18:21:33] [Server thread/INFO]: Kuroi left the game
-[18:21:36] [Server thread/INFO]: Kuroi[/192.168.56.1:51873] logged in with entity id 644 at ([world_nether]12.763391907180715, 79.0, -9.727582705609406)
-[18:21:45] [Server thread/INFO]: Kuroi lost connection: Disconnected
-[18:21:45] [Server thread/INFO]: Kuroi left the game
-[18:21:53] [Server thread/INFO]: Kuroi[/192.168.56.1:51885] logged in with entity id 730 at ([world_nether]21.617585970445322, 79.0, -6.916360676062965)
-[18:22:05] [Server thread/INFO]: Kuroi issued server command: /end
-[18:22:28] [Server thread/INFO]: Kuroi lost connection: Disconnected
-[18:22:28] [Server thread/INFO]: Kuroi left the game
-[18:22:30] [Server thread/INFO]: Kuroi[/192.168.56.1:51894] logged in with entity id 1116 at ([world]-1.4513184171905191, 78.0, 9.287039664178995)
-[18:25:14] [Server thread/INFO]: Kuroi lost connection: Disconnected
-[18:25:14] [Server thread/INFO]: Kuroi left the game
-[18:26:10] [Server thread/INFO]: Kuroi[/192.168.56.1:52091] logged in with entity id 2508 at ([world]-1.4513184171905191, 78.0, 9.287039664178995)
-[18:26:15] [Server thread/INFO]: Kuroi issued server command: /start 10 10
-[18:26:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2994ms or 59 ticks behind
-[18:26:27] [Server thread/INFO]: Kuroi has made the advancement [We Need to Go Deeper]
-[18:26:39] [Server thread/INFO]: Kuroi lost connection: Disconnected
-[18:26:39] [Server thread/INFO]: Kuroi left the game
-[18:26:44] [Server thread/INFO]: Kuroi[/192.168.56.1:52105] logged in with entity id 2680 at ([world_nether]16.389996991926196, 79.0, -10.087299563344429)
-[18:26:52] [Server thread/INFO]: Kuroi lost connection: Disconnected
-[18:26:52] [Server thread/INFO]: Kuroi left the game
-[18:26:55] [Server thread/INFO]: Kuroi[/192.168.56.1:52112] logged in with entity id 2769 at ([world_nether]31.11825351356914, 80.0, -8.944278452434654)
-[18:27:07] [Server thread/INFO]: Unknown command. Type "help" for help.[m
-[18:27:09] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
-[18:27:09] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
-[18:27:09] [Server thread/INFO]: [UHCPlugin] Disabling UHCPlugin v1.0 (alpha)
-[18:27:09] [Server thread/INFO]: [UHCPlugin] UHC plugin has been disabled.
-[18:27:10] [Server thread/INFO]: Loaded 524 recipes
-[18:27:10] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[18:27:10] [Server thread/INFO]: Loaded 524 recipes
-[18:27:11] [Server thread/INFO]: [UHCPlugin] Loading UHCPlugin v1.0 (alpha)
-[18:27:11] [Server thread/INFO]: [UHCPlugin] Enabling UHCPlugin v1.0 (alpha)
-[18:27:11] [Server thread/INFO]: [UHCPlugin] UHC plugin has been enabled.
-[18:27:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:27:12] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
-[18:27:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2375ms or 47 ticks behind
-[18:27:13] [Server thread/INFO]: Kuroi issued server command: /end
-[18:27:17] [Server thread/INFO]: Kuroi issued server command: /start 10 10
-[18:27:25] [Server thread/INFO]: Kuroi lost connection: Disconnected
-[18:27:25] [Server thread/INFO]: Kuroi left the game
-[18:27:28] [Server thread/INFO]: Kuroi[/192.168.56.1:52125] logged in with entity id 2929 at ([world]-4.127548100064905, 73.0, -2.895901725881334)
-[18:27:33] [Server thread/INFO]: Kuroi lost connection: Disconnected
-[18:27:33] [Server thread/INFO]: Kuroi left the game
-[18:27:44] [Server thread/INFO]: Kuroi[/192.168.56.1:52140] logged in with entity id 2994 at ([world]-2.784613322489046, 76.0, -1.1892162952110552)
-[18:28:02] [Server thread/INFO]: Kuroi issued server command: /end
-[18:31:41] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
-[18:31:41] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
-[18:31:41] [Server thread/INFO]: [UHCPlugin] Disabling UHCPlugin v1.0 (alpha)
-[18:31:41] [Server thread/INFO]: [UHCPlugin] UHC plugin has been disabled.
-[18:31:41] [Server thread/INFO]: Loaded 524 recipes
-[18:31:42] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[18:31:42] [Server thread/INFO]: Loaded 524 recipes
-[18:31:43] [Server thread/INFO]: [UHCPlugin] Loading UHCPlugin v1.0 (alpha)
-[18:31:43] [Server thread/INFO]: [UHCPlugin] Enabling UHCPlugin v1.0 (alpha)
-[18:31:43] [Server thread/INFO]: [UHCPlugin] UHC plugin has been enabled.
-[18:31:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:31:43] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
-[18:31:46] [Server thread/INFO]: Kuroi issued server command: /start 10 10
-[18:32:14] [Server thread/INFO]: Kuroi issued server command: /give @a minecraft:crafting_table
-[18:32:14] [Server thread/INFO]: [Kuroi: Gave 1 [Crafting Table] to Kuroi]
-[18:32:32] [Server thread/INFO]: Kuroi issued server command: /give Kuroi minecraft:oak_planks 4
-[18:32:32] [Server thread/INFO]: [Kuroi: Gave 4 [Oak Planks] to Kuroi]
-[18:32:53] [Server thread/INFO]: Kuroi issued server command: /give Kuroi minecraft:oak_log 64
-[18:32:53] [Server thread/INFO]: [Kuroi: Gave 64 [Oak Log] to Kuroi]
-[18:33:12] [Server thread/INFO]: Kuroi has made the advancement [Stone Age]
-[18:33:20] [Server thread/INFO]: Kuroi has made the advancement [Getting an Upgrade]
-[18:33:26] [Server thread/INFO]: Kuroi issued server command: /start 10 10
-[18:44:03] [Server thread/INFO]: Kuroi issued server command: /start 10 10
-[18:51:47] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
-[18:51:47] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
-[18:51:47] [Server thread/INFO]: [UHCPlugin] Disabling UHCPlugin v1.0 (alpha)
-[18:51:47] [Server thread/INFO]: [UHCPlugin] UHC plugin has been disabled.
-[18:51:48] [Server thread/INFO]: Loaded 524 recipes
-[18:51:48] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[18:51:48] [Server thread/INFO]: Loaded 524 recipes
-[18:51:49] [Server thread/INFO]: [UHCPlugin] Loading UHCPlugin v1.0 (alpha)
-[18:51:49] [Server thread/INFO]: [UHCPlugin] Enabling UHCPlugin v1.0 (alpha)
-[18:51:49] [Server thread/INFO]: [UHCPlugin] UHC plugin has been enabled.
-[18:51:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:51:49] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
-[18:51:55] [Server thread/INFO]: Kuroi issued server command: /start 10 10
-[18:51:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2970ms or 59 ticks behind
-[18:52:11] [Server thread/INFO]: Kuroi issued server command: /effect give Kuroi minecraft:instant_damage 1 10
-[18:52:11] [Server thread/INFO]: [Kuroi: Applied effect Instant Damage to Kuroi]
-[18:52:11] [Server thread/INFO]: Kuroi was killed by magic
-[18:52:20] [Server thread/INFO]: Kuroi issued server command: /end
-[18:52:53] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
-[18:52:53] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
-[18:52:53] [Server thread/INFO]: [UHCPlugin] Disabling UHCPlugin v1.0 (alpha)
-[18:52:53] [Server thread/INFO]: [UHCPlugin] UHC plugin has been disabled.
-[18:52:53] [Server thread/INFO]: Loaded 524 recipes
-[18:52:53] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[18:52:54] [Server thread/INFO]: Loaded 524 recipes
-[18:52:54] [Server thread/INFO]: [UHCPlugin] Loading UHCPlugin v1.0 (alpha)
-[18:52:54] [Server thread/INFO]: [UHCPlugin] Enabling UHCPlugin v1.0 (alpha)
-[18:52:54] [Server thread/INFO]: [UHCPlugin] UHC plugin has been enabled.
-[18:52:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:52:54] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
-[18:52:57] [Server thread/INFO]: Kuroi issued server command: /start 10 10
-[18:53:00] [Server thread/WARN]: Kuroi moved too quickly! 5.639128048682305,7.0,5.196847999377832
-[18:53:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2973ms or 59 ticks behind
-[18:53:05] [Server thread/INFO]: Kuroi issued server command: /effect give Kuroi minecraft:instant_damage 1 10
-[18:53:05] [Server thread/INFO]: [Kuroi: Applied effect Instant Damage to Kuroi]
-[18:53:05] [Server thread/INFO]: Kuroi was killed by magic
-[18:53:16] [Server thread/INFO]: Kuroi issued server command: /end
-[18:53:44] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
-[18:53:44] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
-[18:53:44] [Server thread/INFO]: [UHCPlugin] Disabling UHCPlugin v1.0 (alpha)
-[18:53:44] [Server thread/INFO]: [UHCPlugin] UHC plugin has been disabled.
-[18:53:44] [Server thread/INFO]: Loaded 524 recipes
-[18:53:44] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[18:53:44] [Server thread/INFO]: Loaded 524 recipes
-[18:53:45] [Server thread/INFO]: [UHCPlugin] Loading UHCPlugin v1.0 (alpha)
-[18:53:45] [Server thread/INFO]: [UHCPlugin] Enabling UHCPlugin v1.0 (alpha)
-[18:53:45] [Server thread/INFO]: [UHCPlugin] UHC plugin has been enabled.
-[18:53:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:53:45] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
-[18:53:48] [Server thread/INFO]: Kuroi issued server command: /start 10 10
-[18:53:51] [Server thread/WARN]: Kuroi moved too quickly! 5.957835148505213,7.0,5.861165503311266
-[18:53:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2971ms or 59 ticks behind
-[18:53:58] [Server thread/INFO]: Kuroi issued server command: /effect give Kuroi minecraft:instant_damage 1 10
-[18:53:58] [Server thread/INFO]: [Kuroi: Applied effect Instant Damage to Kuroi]
-[18:53:59] [Server thread/INFO]: Kuroi was killed by magic
-[18:54:10] [Server thread/INFO]: Kuroi issued server command: /end
-[18:54:20] [Server thread/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@4d2e19d6[id=7deea98c-2693-3136-9588-79d3ddf73549,name=Kuroi,properties={},legacy=false]
-com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
-	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[craftbukkit-1.13.2.jar:git-Bukkit-dff66df]
-	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) ~[craftbukkit-1.13.2.jar:git-Bukkit-dff66df]
-	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:173) ~[craftbukkit-1.13.2.jar:git-Bukkit-dff66df]
-	at net.minecraft.server.v1_13_R2.TileEntitySkull.b(TileEntitySkull.java:108) ~[craftbukkit-1.13.2.jar:git-Bukkit-dff66df]
-	at net.minecraft.server.v1_13_R2.TileEntitySkull.f(TileEntitySkull.java:91) ~[craftbukkit-1.13.2.jar:git-Bukkit-dff66df]
-	at net.minecraft.server.v1_13_R2.TileEntitySkull.setGameProfile(TileEntitySkull.java:87) ~[craftbukkit-1.13.2.jar:git-Bukkit-dff66df]
-	at net.minecraft.server.v1_13_R2.BlockSkullPlayer.postPlace(SourceFile:43) ~[craftbukkit-1.13.2.jar:git-Bukkit-dff66df]
-	at net.minecraft.server.v1_13_R2.ItemBlock.a(ItemBlock.java:45) ~[craftbukkit-1.13.2.jar:git-Bukkit-dff66df]
-	at net.minecraft.server.v1_13_R2.ItemBlock.a(ItemBlock.java:22) ~[craftbukkit-1.13.2.jar:git-Bukkit-dff66df]
-	at net.minecraft.server.v1_13_R2.ItemStack.placeItem(ItemStack.java:162) ~[craftbukkit-1.13.2.jar:git-Bukkit-dff66df]
-	at net.minecraft.server.v1_13_R2.PlayerInteractManager.a(PlayerInteractManager.java:510) ~[craftbukkit-1.13.2.jar:git-Bukkit-dff66df]
-	at net.minecraft.server.v1_13_R2.PlayerConnection.a(PlayerConnection.java:1202) ~[craftbukkit-1.13.2.jar:git-Bukkit-dff66df]
-	at net.minecraft.server.v1_13_R2.PacketPlayInUseItem.a(SourceFile:53) ~[craftbukkit-1.13.2.jar:git-Bukkit-dff66df]
-	at net.minecraft.server.v1_13_R2.PacketPlayInUseItem.a(SourceFile:11) ~[craftbukkit-1.13.2.jar:git-Bukkit-dff66df]
-	at net.minecraft.server.v1_13_R2.PlayerConnectionUtils.a(SourceFile:10) ~[craftbukkit-1.13.2.jar:git-Bukkit-dff66df]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_171]
-	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_171]
-	at net.minecraft.server.v1_13_R2.SystemUtils.a(SourceFile:199) [craftbukkit-1.13.2.jar:git-Bukkit-dff66df]
-	at net.minecraft.server.v1_13_R2.MinecraftServer.b(MinecraftServer.java:843) [craftbukkit-1.13.2.jar:git-Bukkit-dff66df]
-	at net.minecraft.server.v1_13_R2.DedicatedServer.b(DedicatedServer.java:382) [craftbukkit-1.13.2.jar:git-Bukkit-dff66df]
-	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:796) [craftbukkit-1.13.2.jar:git-Bukkit-dff66df]
-	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:699) [craftbukkit-1.13.2.jar:git-Bukkit-dff66df]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_171]
-[18:56:40] [Server thread/INFO]: Kuroi lost connection: Disconnected
-[18:56:40] [Server thread/INFO]: Kuroi left the game
-[18:56:44] [Server thread/INFO]: Stopping the server
-[18:56:44] [Server thread/INFO]: Stopping server
-[18:56:44] [Server thread/INFO]: [UHCPlugin] Disabling UHCPlugin v1.0 (alpha)
-[18:56:44] [Server thread/INFO]: [UHCPlugin] UHC plugin has been disabled.
-[18:56:44] [Server thread/INFO]: Saving players
-[18:56:44] [Server thread/INFO]: Saving worlds
-[18:56:44] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
-[18:56:44] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[18:56:44] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:30:47] [main/INFO]: Loaded 0 recipes
+[22:30:47] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[22:30:47] [Server thread/INFO]: Loading properties
+[22:30:47] [Server thread/INFO]: Default game type: SURVIVAL
+[22:30:47] [Server thread/INFO]: Generating keypair
+[22:30:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:30:47] [Server thread/INFO]: Using default channel type
+[22:30:48] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-dff66df (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
+[22:30:53] [Server thread/INFO]: [UHCPlugin] Loading UHCPlugin v1.0 (alpha)
+[22:30:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:30:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:30:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:30:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:30:53] [Server thread/INFO]: Preparing level "world"
+[22:30:53] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[22:30:54] [Server thread/INFO]: Loaded 524 recipes
+[22:30:55] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: -605164115423305727)
+[22:30:56] [Server thread/INFO]: Preparing spawn area: 4%
+[22:30:56] [Server thread/INFO]: Preparing spawn area: 8%
+[22:30:56] [Server thread/INFO]: Preparing spawn area: 12%
+[22:30:56] [Server thread/INFO]: Preparing spawn area: 16%
+[22:30:56] [Server thread/INFO]: Preparing spawn area: 20%
+[22:30:56] [Server thread/INFO]: Preparing spawn area: 24%
+[22:30:56] [Server thread/INFO]: Preparing spawn area: 28%
+[22:30:56] [Server thread/INFO]: Preparing spawn area: 32%
+[22:30:56] [Server thread/INFO]: Preparing spawn area: 36%
+[22:30:56] [Server thread/INFO]: Preparing spawn area: 40%
+[22:30:56] [Server thread/INFO]: Preparing spawn area: 44%
+[22:30:56] [Server thread/INFO]: Preparing spawn area: 48%
+[22:30:56] [Server thread/INFO]: Preparing spawn area: 52%
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 56%
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 60%
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 64%
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 68%
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 72%
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 76%
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 80%
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 84%
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 88%
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 92%
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 96%
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 100%
+[22:30:57] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: -605164115423305727)
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 4%
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 8%
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 12%
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 16%
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 20%
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 24%
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 28%
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 32%
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 36%
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 40%
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 44%
+[22:30:57] [Server thread/INFO]: Preparing spawn area: 48%
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 52%
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 56%
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 60%
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 64%
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 68%
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 72%
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 76%
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 80%
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 84%
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 88%
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 92%
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 96%
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 100%
+[22:30:58] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -605164115423305727)
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 4%
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 8%
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 12%
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 16%
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 20%
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 24%
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 28%
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 32%
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 36%
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 40%
+[22:30:58] [Server thread/INFO]: Preparing spawn area: 44%
+[22:30:59] [Server thread/INFO]: Preparing spawn area: 48%
+[22:30:59] [Server thread/INFO]: Preparing spawn area: 52%
+[22:30:59] [Server thread/INFO]: Preparing spawn area: 56%
+[22:30:59] [Server thread/INFO]: Preparing spawn area: 60%
+[22:30:59] [Server thread/INFO]: Preparing spawn area: 64%
+[22:30:59] [Server thread/INFO]: Preparing spawn area: 68%
+[22:30:59] [Server thread/INFO]: Preparing spawn area: 72%
+[22:30:59] [Server thread/INFO]: Preparing spawn area: 76%
+[22:30:59] [Server thread/INFO]: Preparing spawn area: 80%
+[22:30:59] [Server thread/INFO]: Preparing spawn area: 84%
+[22:30:59] [Server thread/INFO]: Preparing spawn area: 88%
+[22:30:59] [Server thread/INFO]: Preparing spawn area: 92%
+[22:30:59] [Server thread/INFO]: Preparing spawn area: 96%
+[22:30:59] [Server thread/INFO]: Preparing spawn area: 100%
+[22:30:59] [Server thread/INFO]: Time elapsed: 3718 ms
+[22:30:59] [Server thread/INFO]: [UHCPlugin] Enabling UHCPlugin v1.0 (alpha)
+[22:30:59] [Server thread/INFO]: [UHCPlugin] UHC plugin has been enabled.
+[22:31:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:31:00] [Server thread/INFO]: Done (6.973s)! For help, type "help"
+[22:31:35] [Server thread/INFO]: Kuroi[/192.168.56.1:53579] logged in with entity id 284 at ([world]15.156397648851355, 88.0, 17.198417268898545)
+[22:31:42] [Server thread/INFO]: Kuroi issued server command: /start 20 20
+[22:31:45] [Server thread/WARN]: Kuroi moved too quickly! -30.156397648851353,-11.0,-2.1984172688985453
+[22:31:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3125ms or 62 ticks behind
+[22:32:30] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[22:32:30] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[22:32:30] [Server thread/INFO]: [UHCPlugin] Disabling UHCPlugin v1.0 (alpha)
+[22:32:30] [Server thread/INFO]: [UHCPlugin] UHC plugin has been disabled.
+[22:32:31] [Server thread/INFO]: Loaded 524 recipes
+[22:32:31] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[22:32:32] [Server thread/INFO]: Loaded 524 recipes
+[22:32:32] [Server thread/INFO]: [UHCPlugin] Loading UHCPlugin v1.0 (alpha)
+[22:32:32] [Server thread/INFO]: [UHCPlugin] Enabling UHCPlugin v1.0 (alpha)
+[22:32:32] [Server thread/INFO]: [UHCPlugin] UHC plugin has been enabled.
+[22:32:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:32:32] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[22:32:34] [Server thread/INFO]: Kuroi issued server command: /start 20 20
+[22:32:37] [Server thread/WARN]: Kuroi moved too quickly! 30.0,-8.0,-33.23413061491298
+[22:32:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3049ms or 60 ticks behind
+[22:32:47] [Server thread/INFO]: Kuroi issued server command: /restart 20 20
+[22:32:50] [Server thread/WARN]: Kuroi moved too quickly! -30.595445815843398,10.0,32.14534723501358
+[22:34:33] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[22:34:33] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[22:34:33] [Server thread/INFO]: [UHCPlugin] Disabling UHCPlugin v1.0 (alpha)
+[22:34:33] [Server thread/INFO]: [UHCPlugin] UHC plugin has been disabled.
+[22:34:33] [Server thread/INFO]: Loaded 524 recipes
+[22:34:33] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[22:34:34] [Server thread/INFO]: Loaded 524 recipes
+[22:34:35] [Server thread/INFO]: [UHCPlugin] Loading UHCPlugin v1.0 (alpha)
+[22:34:35] [Server thread/INFO]: [UHCPlugin] Enabling UHCPlugin v1.0 (alpha)
+[22:34:35] [Server thread/INFO]: [UHCPlugin] UHC plugin has been enabled.
+[22:34:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:34:35] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[22:34:38] [Server thread/INFO]: Kuroi issued server command: /start 20 20
+[22:34:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2969ms or 59 ticks behind
+[22:34:43] [Server thread/INFO]: Kuroi issued server command: /start 20 20
+[22:34:46] [Server thread/INFO]: Kuroi issued server command: /restart 20 20
+[22:34:49] [Server thread/WARN]: Kuroi moved too quickly! -0.5800476304236817,-14.0,-32.23910122718792
+[22:34:56] [Server thread/INFO]: Kuroi lost connection: Disconnected
+[22:34:56] [Server thread/INFO]: Kuroi left the game
+[23:03:54] [Server thread/INFO]: Stopping the server
+[23:03:54] [Server thread/INFO]: Stopping server
+[23:03:54] [Server thread/INFO]: [UHCPlugin] Disabling UHCPlugin v1.0 (alpha)
+[23:03:54] [Server thread/INFO]: [UHCPlugin] UHC plugin has been disabled.
+[23:03:54] [Server thread/INFO]: Saving players
+[23:03:54] [Server thread/INFO]: Saving worlds
+[23:03:54] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[23:03:54] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[23:03:54] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld

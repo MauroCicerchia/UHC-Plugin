@@ -21,6 +21,7 @@ public class TimeManager {
 	
 	public static void startTimer(Plugin plugin, int minutes) {
 		
+		
 		isActive = true;
 		
 		episodeTime = minutes * 60;

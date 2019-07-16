@@ -13,7 +13,6 @@ import org.bukkit.WorldBorder;
 import org.bukkit.block.Block;
 import org.bukkit.block.Skull;
 import org.bukkit.entity.Player;
-import org.bukkit.inventory.meta.SkullMeta;
 
 public class WorldManager {
 	
@@ -41,10 +40,43 @@ public class WorldManager {
 		locations.add(calculateCorner(1, -1));
 		
 		for(Player player : Bukkit.getOnlinePlayers()) {
+			
 			Location location = locations.get(new Random().nextInt(locations.size()));
-			if(!world.getChunkAt(location).isLoaded())
+			
+			while(!world.getChunkAt(location).isLoaded())
 				world.loadChunk(world.getChunkAt(location));
-			player.teleport(location);
+			
+			Bukkit.getScheduler().runTaskLater(Main.getPlugin(Main.class), () -> {
+				
+				// Values of change in distance (make it relative)
+		        int dx = Integer.signum((int) location.getX());				//WTF!!!
+		        int dz = Integer.signum((int) location.getZ());
+		        
+		        // Set yaw
+		        if (dx != 0) {
+		            // Set yaw start value based on dx
+		            if (dx < 0) {
+		            	UHCChat.sayAll("Looking towards 2 PI");
+		                location.setYaw((float) (2 * Math.PI));
+		            } else {
+		                location.setYaw((float) (Math.PI));
+		                UHCChat.sayAll("Looking towards PI");
+		            }
+		            //location.setYaw((float) location.getYaw() - (float) Math.atan(dz / dx));
+		        } else if (dz < 0) {
+		            location.setYaw((float) (1.5 * Math.PI));
+		            UHCChat.sayAll("Looking towards 1.5 PI");
+		        } else {
+		        	location.setYaw((float) (0.5 * Math.PI));
+		        	UHCChat.sayAll("Looking towards 0.5 PI");
+		        }
+
+		        // Set values, convert to degrees (invert the yaw since Bukkit uses a different yaw dimension format)
+		        location.setYaw(location.getYaw() * 180f / (float) Math.PI);
+		        
+		        player.teleport(location);
+			}, 5);
+			
 			locations.remove(location);
 		}
 		
@@ -89,5 +121,15 @@ public class WorldManager {
 		skull.setOwningPlayer(player);
 		
 		skull.update();
+	}
+
+	public static boolean allChunksLoaded() {
+		boolean output = true;
+		
+		for(Player p : Bukkit.getOnlinePlayers()) {
+			output = output && p.getLocation().getChunk().isLoaded();
+		}
+		
+		return output;
 	}
 }
